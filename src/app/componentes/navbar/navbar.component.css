@@ -1,0 +1,10 @@
+.navbar{
+    margin-top: 5px;
+    padding: 1em 1em;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 20px;
+}
+
+.nav-item{
+    margin-right: 1em;
+}
